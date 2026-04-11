@@ -1,0 +1,23 @@
+*{
+    background-color: wheat;
+}
+
+h1 {
+    color: brown;
+}
+
+#second{
+    color: blue;
+}
+
+.third {
+    background-color: aquamarine;
+}
+
+p{
+    background-color: darkgrey;
+    width: 300px;
+    padding: 30px;
+    border: 50px dotted orange ;
+    margin: 50px;
+}
